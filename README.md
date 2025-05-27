@@ -10,3 +10,7 @@ This repo solves the CarRacing-v3 environment from the Farama Foundation using D
 
 ![ddqngif](https://github.com/user-attachments/assets/bdd66bdb-6b98-4703-86ab-df1445c160c9)
 
+---
+
+*Note: The GIFs above are somewhat choppy due to format limitations. For a smoother and full-quality version, check out the [YouTube video here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).*
+
