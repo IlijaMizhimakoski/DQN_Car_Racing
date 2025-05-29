@@ -12,5 +12,5 @@ This repo solves the CarRacing-v3 environment from the Farama Foundation using D
 
 ---
 
-*Note: The GIFs above are somewhat choppy due to format limitations. For a smoother and full-quality version, check out the [YouTube video here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID).*
+*Note: The GIFs above are somewhat choppy due to format limitations. For a smoother and full-quality version, check out the [YouTube video here](https://youtu.be/6AAcua5E8Fw?si=k3cVgLV8tTv_HGt7).*
 
